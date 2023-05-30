@@ -1,0 +1,136 @@
+.mi-sider-layout__sider {
+	background-position: 50%;
+	background-size: cover;
+	width: 375px;
+	height: 1000px;
+	float: left;
+	background-image: url("../bj.jpg");
+}
+
+.mi-sider-layout__content {
+	width: 100%-375px;
+	height: 100%;
+}
+
+.mi-layout__header {
+	height: 80px;
+}
+
+#logo {
+	text-indent: 20px;
+}
+
+#logo img {
+	margin: 20px 0 0 20px;
+	width: 40px;
+	height: 40px;
+	float: left;
+}
+
+#logo h1 {
+	float: left;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+#help {
+	height: 100%;
+	line-height: 80px;
+	margin: 0 auto;
+	float: right;
+}
+
+#help ul {
+	display: inline-block;
+}
+
+#help li {
+	float: left;
+	font-size: 14px;
+	margin-left: 15px;
+}
+
+#help a {
+	color: #838383;
+}
+
+#help span {
+	line-height: 80px;
+	margin: 0 30px 0 30px;
+}
+
+.test1 {
+	float: left;
+}
+
+.test2 {
+	margin-left: 60px;
+	float: left;
+}
+.mi-layout__container {
+	width: 100%-375px;
+	height: 700px;
+}
+form {
+	padding-top: 30px;
+	width: 450px;
+	height: 583px;
+	margin: 0 auto;
+	margin-top: 10px;
+	padding: 45px;
+}
+form h1 {
+	font-size: 22px;
+	border-bottom: 3px solid orange;
+}
+.input {
+	width: 354px;
+	height: 60px;
+	margin-top: 25px;
+	background-color: lightgrey;
+	margin-left:48px ;
+}
+.xieyi {
+	margin: 25px 0 0 45px;
+}
+.agree {
+	color: #AAAAAA;
+}
+.agree a {
+	color: black;
+}
+.loginBtn {
+	margin: 0 auto;
+	margin-top: 25px;
+	width: 356px;
+	height: 60px;
+	background-color: #ff5c00;
+	color: white;
+	text-align: center;
+	line-height: 60px;
+	font-size: 18px;
+}
+.for {
+	width: 356px;
+	height: 60px;
+	font-size: 17px;
+	margin: 0 auto;
+	margin-top:25px ;
+}
+.for a {
+	color:#ff5c00;
+}
+.forget {
+	float: left;
+}
+.phoneLogin {
+	float: right;
+}
+.other {
+	width: 356px;
+	margin: 0 auto; 
+	text-align: center;
+	color: #AAAAAA;
+	font-size: 17px;
+	margin-top: 25px;
+}
